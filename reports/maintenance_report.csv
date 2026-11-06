@@ -1,0 +1,2 @@
+Failure Prediction,Failure Probability (%),Maintenance Priority,Recommendations
+No Failure Detected,13.25,MEDIUM,High tool wear detected: Inspect or replace the cutting tool. | Low rotational speed detected: Inspect motor and speed controller.
