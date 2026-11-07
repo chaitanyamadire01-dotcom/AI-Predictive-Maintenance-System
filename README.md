@@ -130,6 +130,8 @@ The dashboard displays:
 
 ![Maintenance Results](reports/maintenance_results.png)
 
+![Model Performance](reports/model_performance.png)
+
 ## Limitations
 
 This is an academic prototype developed using the AI4I 2020 synthetic dataset. The predictions and maintenance thresholds have not been validated for real industrial machines. The current version does not use live industrial sensors or real-time factory data.
